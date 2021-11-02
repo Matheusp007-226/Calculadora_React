@@ -8,7 +8,7 @@ Calculadora semelhante ao do MAC
 É uma aplicação simples de calculadora, muito semelhante so do sistema operacional MAc OS
 
 ## Layout da Aplicação
-![layout 1](assets/img/IMC_1.png) ![layout 2](calculadora.docx)
+![layout 2](calculadora.png)
 
 # Tecnologias utilizadas
 ## Back end
