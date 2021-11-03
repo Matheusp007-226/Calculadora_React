@@ -9,7 +9,6 @@ Calculadora semelhante ao do MAC
 
 ## Layout da Aplicação
 ![layout 2](calculadora.png)
-
 # Tecnologias utilizadas
 ## Back end
 - Javascript
