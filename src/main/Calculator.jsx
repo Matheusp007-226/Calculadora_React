@@ -30,7 +30,7 @@ export default class Calculator extends Component{
     }
     addDigit(n){
         
-        if(n == '.' && this.state.displayValue.includes('.')){
+        if(n == '.' && String(this.state.displayValue).includes('.')){
                 return
         }
 
